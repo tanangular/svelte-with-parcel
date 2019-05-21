@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/css/main.scss"],"names":[],"mappings":"AACA;EACE,kBAFO","file":"main.c8d4f6fa.css","sourceRoot":"../src","sourcesContent":["$color1: #23d;\nbody {\n  background-color: $color1;\n}"]}
