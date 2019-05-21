@@ -18,5 +18,8 @@
   },
   "browserslist": [
     "edge >= 13"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }

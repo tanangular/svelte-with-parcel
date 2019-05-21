@@ -50,3 +50,5 @@ Temporary Items
 \.cache/
 
 dist/
+
+node_modules/

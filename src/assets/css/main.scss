@@ -1,4 +1,3 @@
-$bgColor: #fefefe;
-body {
-  background-color: $bgColor;
-}
+// Required
+$primary: #da667a !default;
+@import "../../../node_modules/bootstrap/scss/bootstrap";
